@@ -1,1 +1,1 @@
-# Manifeste_ia-
+# Manifeste_ia-en français 
