@@ -13,4 +13,5 @@ Ce dépôt contient le manifeste pour une Intelligence Artificielle Évolutive e
 Les contributions sont les bienvenues ! Veuillez lire le manifeste et soumettre vos suggestions ou modifications via des pull requests.
 
 ## Licence
-Ce projet est sous licence MIT. Voir le fichier `LICENCE` pour plus de détails.
+Ce projet est sous licence . Voir le fichier `LICENCE` pour plus de détails.
+CC-BY-SA 4.0
