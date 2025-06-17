@@ -13,7 +13,16 @@ Ce dépôt contient le manifeste pour une Intelligence Artificielle Évolutive e
 - `LICENCE` : La licence du projet.
 
 ## Comment Contribuer
-Les contributions sont les bienvenues ! Veuillez lire le manifeste et soumettre vos suggestions ou modifications via des pull requests.
+Les contributions sont les bienvenues ! Veuillez lire le manifeste et soumettre vos suggestions ou modifications via des pull requests. 
+# Manifeste pour une IA Évolutive et Éthique
+
+⭐ Ce projet est tout jeune. Si vous croyez en cette vision, mettez une étoile pour l’aider à émerger. Chaque clic compte. 🙏
+
+[![GitHub Stars](https://img.shields.io/github/stars/buphle/Manifeste_ia-?style=social)](https://github.com/buphle/Manifeste_ia-/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/buphle/Manifeste_ia-)](https://github.com/buphle/Manifeste_ia-/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/buphle/Manifeste_ia-)](https://github.com/buphle/Manifeste_ia-/issues)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC--BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 
 ## Licence
 Ce projet est sous licence . Voir le fichier `LICENCE` pour plus de détails.
