@@ -14,4 +14,6 @@ Les contributions sont les bienvenues ! Veuillez lire le manifeste et soumettre 
 
 ## Licence
 Ce projet est sous licence . Voir le fichier `LICENCE` pour plus de détails.
-CC-BY-SA 4.0
+CC-BY-SA 4.0 
+---
+**Licence :** [Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
