@@ -11,4 +11,4 @@ This repository contains the manifesto for an Evolving and Ethical Artificial In
 Contributions are welcome! Please read the manifesto and submit your suggestions or changes via pull requests.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the  CC-BY-SA 4.0 License. See the `LICENSE` file for more details.
