@@ -1,0 +1,31 @@
+## 🔐 Sécurité des modèles et échelle RAND (SL1 → SL5)
+
+### 📏 Référence à l’échelle RAND
+Afin d’évaluer la robustesse des systèmes d’IA face aux cybermenaces, le manifeste reconnaît l’utilité de l’**échelle de sécurité RAND** (SL1 à SL5), qui classe les systèmes selon leur capacité à résister à des attaques croissantes :
+
+| Niveau | Description |
+|--------|-------------|
+| **SL1** | Contre les attaques d'amateurs ou non ciblées |
+| **SL2** | Contre les attaques opportunistes de professionnels individuels |
+| **SL3** | Contre les groupes criminels organisés et les menaces internes |
+| **SL4** | Contre les opérations standard d’agences étatiques cyber-capables |
+| **SL5** | Contre les opérations prioritaires des nations les plus avancées |
+
+### 🚨 Obligation de transparence et de supervision
+Tout système classé **SL4** ou **SL5** doit faire l’objet de :
+* un **audit indépendant** de sécurité ;
+* une **coopération obligatoire** avec d’autres acteurs publics/privés ;
+* la **publication vérifiable** de son niveau de sécurité ;
+* des **mécanismes de supervision externes** permanents.
+
+### 🤝 Clause de responsabilité partagée
+Le développement d’une IA **SL5** ne peut reposer sur une seule entité ; tout déploiement isolé est considéré comme un **risque systémique majeur**.
+
+### 🛑 Clause de non-dissimulation
+Toute tentative de masquer le véritable niveau (SL4/SL5) engage la responsabilité civile, éthique et, le cas échéant, pénale de l’acteur concerné.
+
+### ⚖️ Pacte de non-agression algorithmique (PNA)
+Les modèles susceptibles d’actions destructrices (bio-ingénierie, cyber-OC5) doivent être encapsulés dans un **dispositif de contre-pouvoir** :
+* **kill-switch multisignatures**,
+* surveillance par des IA tierces indépendantes,
+* impossibilité de modifier les paramètres critiques sans accord multipartite.
